@@ -1,2 +1,5 @@
 # Deliversity Backend 입니다.
-[![Build Status](https://travis-ci.com/Deliversity/Deliversity_backend.svg?token=cJp4ZrbSHxsQMoD64kwe&branch=master)](https://travis-ci.com/Deliversity/Deliversity_backend)
+## Travis-CI의 할당량 제한으로 인해 현재 사용하지 않는 Repo 입니다.
+
+## 아래 Repository로 접속해주세요.
+[Deliversity_backend](https://github.com/Skyhyunmi/Deliversity_backend)
